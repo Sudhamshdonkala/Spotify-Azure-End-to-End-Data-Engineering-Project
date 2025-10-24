@@ -1,9 +1,0 @@
-{
-	"name": "SD-Azureproject",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "4f144168-7b41-4dab-8ea6-cd31c3eb34d1",
-		"tenantId": "a76af1a5-6f88-48da-b197-6af11580cdd9"
-	}
-}
